@@ -34,5 +34,43 @@
   background-color: #4d4d4d;
 }
 
+@media only screen and (min-width: 480px) {
+  #A {
+    background-color: #ccf2ff;
+  }
+  
+  #B {
+    background-color: #cce6ff;
+  }
+  
+  #C {
+    background-color: #ccd9ff;
+  }
+  
+  #D {
+    background-color: #ccccff;
+  }
+  
+  #E {
+    background-color: #d9ccff;
+  }
+  
+  #F {
+    background-color: #e6ccff;
+  }
+  
+  #G {
+    background-color: #f2ccff;
+  }
+  
+  #H {
+    background-color: #ffccff;
+  }
+  
+  #I {
+    background-color: #ffccf2;
+  }
+}
+
 
 

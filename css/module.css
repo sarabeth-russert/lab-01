@@ -22,7 +22,7 @@ aside {
   align-items: center;
 }
 
-footer div {
+main section div:nth-child(3) {
   display: flex;
   justify-content: center; 
   align-items: center;

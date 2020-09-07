@@ -16,7 +16,42 @@ aside {
   width: 240px;
 }
 
-footer div {
+main section div:nth-child(3) {
   clear: both;
   height: 80px;
+}
+
+@media only screen and (min-width: 480px) {
+  nav {
+    height: 100px;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  aside {
+    height: 600px;
+    width: 200px;
+  }
+  
+  .large-article {
+    height: 200px;
+    width: 380px;
+    float: left;
+    
+  }
+  
+  .small-article {
+    float: left;
+    height: 250px;
+    width: 190px;
+  }
+  
+  main section div:nth-child(3) {
+    clear: both;
+    height: 150px;
+    width: 760;
+  }
 }
