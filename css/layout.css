@@ -1,0 +1,22 @@
+nav {
+  height: 75px;
+}
+
+aside {
+  height: 150px;
+}
+
+.large-article {
+  height: 125px;
+}
+
+.small-article {
+  float: left;
+  height: 250px;
+  width: 240px;
+}
+
+footer div {
+  clear: both;
+  height: 80px;
+}
