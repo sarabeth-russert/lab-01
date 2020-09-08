@@ -7,6 +7,7 @@ mobile-first wireframe challenge
 
 ### Links and Resources
 * https://css-tricks.com/all-about-floats/
+* https://www.w3schools.com/colors/colors_picker.asp
 
 ### Reflections and Comments
 * 
