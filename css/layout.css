@@ -21,7 +21,7 @@ main section div:nth-child(3) {
   height: 80px;
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 768px) {
   nav {
     height: 100px;
   }

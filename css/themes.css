@@ -34,7 +34,7 @@
   background-color: #4d4d4d;
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 768px) {
   #A {
     background-color: #ccf2ff;
   }
