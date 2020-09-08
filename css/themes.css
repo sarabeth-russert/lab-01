@@ -1,0 +1,76 @@
+#A {
+  background-color: #576b2e;
+}
+
+#B {
+  background-color: #556732;
+}
+
+#C {
+  background-color: #546336;
+}
+
+#D {
+  background-color: #536039;
+}
+
+#E {
+  background-color: #525c3d;
+}
+
+#F {
+  background-color: #505841;
+}
+
+#G {
+  background-color: #4f5445;
+}
+
+#H {
+  background-color: #4e5049;
+}
+
+#I {
+  background-color: #4d4d4d;
+}
+
+@media only screen and (min-width: 480px) {
+  #A {
+    background-color: #ccf2ff;
+  }
+  
+  #B {
+    background-color: #cce6ff;
+  }
+  
+  #C {
+    background-color: #ccd9ff;
+  }
+  
+  #D {
+    background-color: #ccccff;
+  }
+  
+  #E {
+    background-color: #d9ccff;
+  }
+  
+  #F {
+    background-color: #e6ccff;
+  }
+  
+  #G {
+    background-color: #f2ccff;
+  }
+  
+  #H {
+    background-color: #ffccff;
+  }
+  
+  #I {
+    background-color: #ffccf2;
+  }
+}
+
+
+
